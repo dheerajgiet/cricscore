@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void SixRub(View view) {
-        scoreTeamA =scoreTeamA + 6;
+        scoreTeamA =scoreTeamA + 8;
         displayForTeamA(scoreTeamB);
     }
 }
